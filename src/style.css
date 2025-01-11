@@ -1,0 +1,15 @@
+.first.row{
+    display: flex;
+    flex-basis: 1;
+}
+.second.row{
+    display: flex;
+}
+.third.row{
+    display: flex;
+}
+.square{
+    width: 2.5em;
+    height: 2.5em;
+    font-size: 2em;
+}
