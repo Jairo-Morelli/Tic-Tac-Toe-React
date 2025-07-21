@@ -1,3 +1,3 @@
-# Completing React Tic-Tac-Toe Tutorial Using Vite
+# React+Vite Tic-Tac-Toe Tutorial
 
-<p> Learn the basics of React and Vite, Completing this tutorial.</p>
+<p> Learn the basics of React and Vite, completing React's Tic-tac-toe tutorial.</p>
